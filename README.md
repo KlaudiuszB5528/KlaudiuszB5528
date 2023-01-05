@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 Checkout my portfolio [klaudiuszb.live](klaudiuszb.live)
+- 👨‍💻 Checkout my portfolio [klaudiuszb.live](https://klaudiuszb.live)
 
 - 📫 How to reach me **klaudiusz.biegacz@gmail.com**
 
