@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEKl00_53dBgQ/profile-displaybackgroundimage-shrink_350_1400/0/1639175811317?e=1675296000&v=beta&t=WX7sLqP8W85IRTSg7g5uS-9XTw0jO2I5qoqK2ImzeaU)](https://klaudiuszb.live)
+[![MasterHead]([https://media-exp1.licdn.com/dms/image/C4E16AQEKl00_53dBgQ/profile-displaybackgroundimage-shrink_350_1400/0/1639175811317?e=1675296000&v=beta&t=WX7sLqP8W85IRTSg7g5uS-9XTw0jO2I5qoqK2ImzeaU](https://www.paragyte.com/img/React_Banner.png))](https://klaudiuszb.live)
 <h1 align="center">Hi 👋, I'm Klaudiusz</h1>
 <h3 align="center">Third-year CS Student / Frontend Developer based in Poland</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
