@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br><br>👨‍💻 Check out my [portfolio](https://klaudiuszb.me)<br><br>📫 How to reach me klaudiusz.biegacz@gmail.com
+🌱 I’m currently learning Golang<br><br>👨‍💻 Check out my [portfolio](https://klaudiuszb.me)<br><br>📫 How to reach me klaudiusz.biegacz@gmail.com
 
 
 ## 🌐 Socials:
