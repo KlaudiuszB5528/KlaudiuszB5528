@@ -1,10 +1,10 @@
-[![MasterHead](https://www.paragyte.com/img/React_Banner.png)](https://klaudiuszb.live)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&s)](https://klaudiuszb.live)
 <h1 align="center">Hi 👋, I'm Klaudiusz</h1>
 <h3 align="center">Final year CS Student / Frontend Developer in TDS Soft</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 # 💫 About Me:
-🌱 I’m currently learning Golang<br><br>👨‍💻 Check out my [portfolio](https://klaudiuszb.me)<br><br>📫 How to reach me klaudiusz.biegacz@gmail.com
+🌱 I’m currently learning Angular<br><br>👨‍💻 Check out my [portfolio](https://klaudiuszb.me)<br><br>📫 How to reach me klaudiusz.biegacz@gmail.com
 
 
 ## 🌐 Socials:
