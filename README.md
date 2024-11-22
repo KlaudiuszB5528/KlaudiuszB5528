@@ -10,9 +10,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiusz-biegacz/) 
 
 # 💻 Tech Stack:
-Currently MEAN stack, used to work for 2,5 years with React/Next, Python, ML
+React + Node (Express,Fastify) , Next.js
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaudiuszB5528&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlaudiuszB5528/KlaudiuszB5528/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KlaudiuszB5528/KlaudiuszB5528/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/KlaudiuszB5528/output/github-snake.svg" />
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
