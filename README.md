@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klaudiusz</h1>
-<h3 align="center">MSc Computer Science Student (Cybersecurity spec) / Frontend Developer @TDS Soft </h3>
+<h3 align="center">MSc Computer Science Student (Cybersecurity spec) / Software Engineer @Montrose Software </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 # 💫 About Me:
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiusz-biegacz/) 
 
 # 💻 Tech Stack:
-React + Node (Express,Fastify) , Next.js
+React + Python (Django) , Next.js
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaudiuszB5528&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
