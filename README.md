@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 # 💫 About Me:
-👨‍💻 Check out my [portfolio](https://klaudiuszb.vercel.app)<br><br>📫 How to reach me klaudiusz.biegacz@gmail.com
+📫 How to reach me klaudiusz.biegacz@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudiusz-biegacz/) 
